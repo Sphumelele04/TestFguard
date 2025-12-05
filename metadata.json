@@ -1,0 +1,7 @@
+{
+  "name": "FraudGuard",
+  "description": "AI-powered fraud detection assistant integrating Language, Vision, and Speech AI to secure financial transactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
